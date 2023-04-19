@@ -1,4 +1,4 @@
-const int interruptPin = 8;
+const int interruptPin = 2; //
 extern volatile unsigned long timer0_millis; 
 unsigned long timeVal = 0;
 unsigned long millisTime = 0; 
